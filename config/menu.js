@@ -1,0 +1,18 @@
+export const MENU = {
+  Logout: 'Logout',
+  Home: 'Home',
+  Projects: 'Projects',
+  License: 'License',
+  LicenseInfo: 'License Info',
+  LicenseUsers: 'License Users',
+  LicenseClients: 'Your Clients',
+  LicenseBilling: 'ACES Billing',
+  ProjectHome: 'Overview',
+  ProjectPersonae: 'Persona',
+  ProjectSettings: 'Settings',
+  ProjectInfo: 'Project Info',
+  ProjectModules: 'Group & Modules',
+  ProjectGuests: 'Guests',
+  ProjectSchedules: 'Schedules',
+  ProjectDeployment: 'Deployment',
+}
